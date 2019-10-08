@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP3_BENETREAULT</string>
+    <string name="activity_main_text_view">TP Services Activity</string>
+    <string name="activity_main_button_start">Start</string>
+    <string name="activity_main_button_connexion">Connexion</string>
+    <string name="activity_main_button_deconnexion">Déconnexion</string>
+    <string name="activity_main_button_stop">Stop</string>
+    <string name="activity_main_edit_text">Saisissez le texte</string>
+</resources>
